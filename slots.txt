@@ -1,0 +1,30 @@
+ Day Order ,Slot - A,Available seats,Slot - B,Available seats,Slot - C,Available seats,Room no:
+Day Order-1,8:00-9:40,59,9:45-10:35,59,10:40-11:30,60,501
+Day Order-2,9:45-10:35,59,10:40-11:30,59,11:35-1:20,60,502
+Day Order-3,12:30-2:15,59,2:20-3:10,60,3:10-4:00,60,503
+Day Order-4,8:00-9:40,60,9:45-10:35,60,10:40-11:30,60,504
+Day Order-5,9:45-10:35,60,10:40-11:30,60,11:35-1:20,60,505
+ Day Order ,Slot - A,Available seats,Slot - B,Available seats,Slot - C,Available seats,Room no:
+Day Order-1,9:45-11:30,60,11:35-12:25,60,2:20-3:10,60,501
+Day Order-2,8:00-9:40,60,9:45-10:35,60,11:35-12:25,60,502
+Day Order-3,12:30-2:15,60,2:20-3:10,60,3:10-4:00,60,503
+Day Order-4,8:00-9:40,60,9:45-10:35,59,11:35-12:25,60,504
+Day Order-5,9:45-11:30,58,11:35-12:25,60,2:20-3:10,59,505
+ Day Order ,Slot - A,Available seats,Slot - B,Available seats,Slot - C,Available seats,Room no:
+Day Order-1,12:30-2:15,60,2:20-3:10,60,3:10-4:00,60,501
+Day Order-2,8:00-9:40,60,9:45-10:35,60,11:35-12:25,60,502
+Day Order-3,9:45-11:30,60,11:35-12:25,60,2:20-3:10,60,503
+Day Order-4,10:40-12:25,60,1:25-2:15,60,2:20-3:10,60,504
+Day Order-5,8:00-9:40,60,9:45-10:35,60,11:35-12:25,60,505
+ Day Order ,Slot - A,Available seats,Slot - B,Available seats,Slot - C,Available seats,Room no:
+Day Order-1,9:45-11:30,59,11:35-12:25,59,2:20-3:10,59,501
+Day Order-2,8:00-9:40,59,9:45-10:35,60,11:35-12:25,59,502
+Day Order-3,12:30-2:15,60,2:20-3:10,59,3:10-4:00,59,503
+Day Order-4,8:00-9:40,59,9:45-10:35,60,11:35-12:25,59,504
+Day Order-5,9:45-11:30,59,11:35-12:25,60,2:20-3:10,60,505
+ Day Order ,Slot - A,Available seats,Slot - B,Available seats,Slot - C,Available seats,Room no:
+Day Order-1,8:00-9:40,60,9:45-10:35,60,10:40-11:30,60,501
+Day Order-2,9:45-10:35,60,10:40-11:30,60,11:35-1:20,60,502
+Day Order-3,12:30-2:15,60,2:20-3:10,60,3:10-4:00,60,503
+Day Order-4,8:00-9:40,60,9:45-10:35,60,10:40-11:30,59,504
+Day Order-5,9:45-10:35,60,10:40-11:30,60,11:35-1:20,60,505
