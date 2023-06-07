@@ -5,4 +5,4 @@ This code sets up a basic GUI using Tkinter with two sections: Course and Subjec
 
 The Timetable Generation section consists of a "Generate Timetable" button. When clicked, a message box is displayed indicating the successful generation of the timetable. You can implement the timetable generation algorithm and the actual display of the timetable based on your specific requirements.
 
-Feel free to modify the code as per your project needs, add additional functionalities, and integrate the actual logic for subject/course management, timetable generation, and display.
+Feel free to modify the code as per your project needs, add additional functionalities, and integrate the actual logic for subject/course management, timetable generation, and generate it.
